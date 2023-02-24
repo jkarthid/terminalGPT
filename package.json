@@ -25,7 +25,7 @@
     "commander": "^9.4.1",
     "crypto": "^1.0.1",
     "gradient-string": "^2.0.2",
-    "lowdb": "^5.0.5",
+    "lowdb": "^5.1.0",
     "openai": "^3.1.0",
     "ora": "^5.4.1",
     "prompts": "^2.4.2"
